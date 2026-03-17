@@ -1,0 +1,49 @@
+.container {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(3, 117, 18);
+    color: white;
+}
+
+.sobre  {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: rgb(9, 53, 15);
+    color: white;
+}
+
+.span-acessibilidade {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    color: white;
+}
+
+.span-acoes {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    align-items: center;
+    padding: 10px 20px;
+    color: white;
+}
+
+.ifro {
+    padding: 0px 20px;
+    color: white;
+}
+
+.icones {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    flex-direction: row-reverse;
+    color: white;
+    order: 1;
+    
+}
