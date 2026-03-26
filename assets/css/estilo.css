@@ -49,14 +49,6 @@ a {
   margin: 5px 0;
 }
 
-
-.header-right {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  gap: 15px;
-}
-
 .navbar {
   background-color: #09350f;
   padding: 15px 0;
@@ -107,6 +99,3 @@ footer {
   font-size: 14px;
 }
 
-.footer-col a:hover {
-  text-decoration: underline;
-}
